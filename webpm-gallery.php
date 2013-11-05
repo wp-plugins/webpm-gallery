@@ -3,7 +3,7 @@
 Plugin Name: WebPM Gallery
 Plugin URI: http://webplantmedia.com/wordpress/2012/03/webpm-gallery/
 Description: Extends Image Gallery Manager.
-Version: 1.3
+Version: 1.4
 Author: Chris Baldelomar
 Author URI: http://webplantmedia.com
 License: GPL2
